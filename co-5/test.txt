@@ -1,0 +1,5 @@
+Python is a popular programming language.
+Python can be used on a server to create web applications.
+high-level language, used in data science, automation, AI, web development and more.
+Known for its readability, which means code is easier to write, understand and maintain.
+Backed by strong library support, we don’t have to build everything from scratch.
