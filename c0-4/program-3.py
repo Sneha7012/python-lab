@@ -4,8 +4,7 @@ class Rectangle:
 
       self.__breadth = b
 
-   def getDimensions(self):
-     return self.__length, self.__breadth
+ 
    def getArea(self):
      return self.__length * self.__breadth
    def __lt__ (self, other):
